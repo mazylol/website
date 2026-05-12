@@ -8,6 +8,7 @@ I am a **19** year old Computer Engineering student ***[@ Rose-Hulman](https://w
 
 ## What I'm Working On Right Now
 - crain (CLI)
+- bling (CLI)
 - cimple (Language Design)
 
 ## Interests
@@ -28,5 +29,5 @@ I am a **19** year old Computer Engineering student ***[@ Rose-Hulman](https://w
 - Lua
 
 ## Software
-- [Niri](https://github.com/niri-wm/niri) ([screenshot](/desktop.png))
+- [Niri](https://github.com/niri-wm/niri) ([screenshot](/desktop.png)) (those programs in the terminal are bling and crain)
 - [Neovim](https://neovim.io/) ([config](https://github.com/mazylol/nvim-config))
