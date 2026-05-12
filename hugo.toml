@@ -1,6 +1,6 @@
 baseURL = '/'
 title = "mazylol"
-copyright = "© 2026 Landon Porter"
+copyright = "© 2026 Landon Porter. All Rights Reserved."
 locale = 'en-us'
 languageCode = "en-us"
 theme = 'terminal'
