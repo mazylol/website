@@ -1,0 +1,10 @@
+{{- $format := .Params.dateFormat | default .Site.Params.dateFormat | default "2006-01-02" -}}
+{{- $pubDate := .Date.Format $format -}}
+{{- $lastMod := .Lastmod.Format $format -}}
+
+<span>Published: {{ $pubDate }}</span>
+
+{{/* Only show Last Modified if it is strictly more recent than the original date */}}
+{{- if gt .Lastmod .Date -}}
+  <span> (Updated: {{ $lastMod }})</span>
+{{- end -}}
